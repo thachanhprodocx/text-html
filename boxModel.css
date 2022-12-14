@@ -1,0 +1,46 @@
+.magrin {
+    border: 1px solid black;
+
+    margin-top: 70px;
+    margin-bottom: 70px;
+    margin-left: 70px;
+    
+}
+.padding0{
+    border: 1px solid black;
+    padding: 70px 0px 70px 70px}
+
+.Cangiua {
+    padding-left: 300px;
+}
+
+.cantrai {
+    padding-left: 200px;
+}
+
+.backroudMe {
+    padding-left: 450px;
+    margin-bottom: 10px;
+    background-color: blueviolet;
+}
+.mauchuxanh{
+color: blue;
+}
+.mauchudo{color: red;}
+.mauchuxanhdatroi{
+    color: rgb(0, 117, 20);
+}
+.padding {padding-left: 400px;}
+.padding1 {padding-left: 360px;}
+.padding2{padding-left: 383px;}
+.padding3{padding-left: 260px;}
+.padding4{padding-left: 370px;}
+.padding5{padding-left: 350px;}
+.gachchan{text-decoration: underline;}
+.padding6{
+    padding-left: 500px;
+}
+.img{
+    width: 100%;
+    height: 100%;
+}
